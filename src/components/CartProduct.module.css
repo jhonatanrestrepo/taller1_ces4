@@ -1,0 +1,8 @@
+.add_remove{
+    display:flex;
+    width: 20%;
+}
+
+.add_remove button{
+    margin: 2% 10% ;
+}
